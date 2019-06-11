@@ -23,7 +23,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/docker/go-units"
 	"github.com/go-openapi/runtime/middleware"
 	"github.com/go-openapi/strfmt"
